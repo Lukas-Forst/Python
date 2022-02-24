@@ -8,6 +8,10 @@ This repository contains 4 projects:
 receives a list of strings that are arithmetic problems and returns the problems arranged vertically and side-by-side.
 The function should optionally take a second argument which will display the input.
 
+### budget-app
+
+Category class which has several methods that can be used to create a budget for a consume class like "car", "clothing", "food".
+
 ### polygon-area-calculator
 
 Rectangle class and a Square class. The class displays the rectangles and squares but will also calculate the amount of squares inside rectangles or vice versa.
@@ -19,4 +23,4 @@ library copy and random will be used to create the classes and functions.
 
 ### time-calculator
 
-a function which takes a start time and duration. It will be calculated the end time and how many days passed, optional the day of the week will be displayed.
+a function which takes a start time and duration. It will calculate the end time and how many days passed, optional the day of the week will be displayed.
